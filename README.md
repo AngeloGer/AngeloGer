@@ -10,6 +10,7 @@ Coding and programming is my passion and I am very interested in working with te
 ### About me
 
 - 💻**Systems Development Student**
+- 🌐Portuguese: fluent; English: Level B2;
 - 💭Interested in Software Development, Databases, Game Development, Cloud Computing and AI
 - 📈Always learning and improving my skills
 - 📚Currently developing with React Native for mobile apps
