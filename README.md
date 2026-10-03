@@ -3,6 +3,7 @@
 
 ![Readme Banner](https://github.com/AngeloGer/AngeloGer/blob/main/src/READMEBanner.gif?raw=true)
 
+![Readme Banner MP4](https://raw.githubusercontent.com/AngeloGer/AngeloGer/blob/main/src/READMEBanner.mp4)
 
 I am a student at ETEC (State Technical School of São Paulo) learning about programming and software development.
 Coding and programming is my passion and I am very interested in working with tech and understanding how things function behind them.
