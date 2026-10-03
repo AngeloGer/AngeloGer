@@ -10,7 +10,7 @@ Coding and programming is my passion and I am very interested in working with te
 ### About me
 
 - 💻**Systems Development Student**
-- 💭Interested in Game Development and AI
+- 💭Interested in Software Development, Databases, Game Development, Cloud Computing and AI
 - 📈Always learning and improving my skills
 - 📚Currently developing with React Native for mobile apps
 
@@ -18,7 +18,7 @@ Coding and programming is my passion and I am very interested in working with te
 
 ### Programming Languages
 
-##### *The ones with "Learning!" are those that i'm currently working with for the first time*
+##### *The ones with "Learning!" are those that I'm currently working with for the first time*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
 
