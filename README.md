@@ -1,19 +1,23 @@
 # Hello there, I'm Angelo 👋
 
 
+
 ![Readme Banner](https://github.com/AngeloGer/AngeloGer/blob/main/src/READMEBanner.gif?raw=true)
+
 
 
 I am a student at ETEC (State Technical School of São Paulo) learning about programming and software development.
 Coding and programming is my passion and I am very interested in working with tech and understanding how things function behind them.
 
-### About me
+
+### 🧑‍💻 About me
 
 - 💻**Systems Development Student**
 - 🌐Portuguese: fluent; English: Level B2;
 - 💭Interested in Software Development, Databases, Game Development, Cloud Computing and AI
 - 📈Always learning and improving my skills
 - 📚Currently developing with React Native for mobile apps
+
 
 ### 🛠 Technologies & Tools
 
